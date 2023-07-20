@@ -1,1 +1,0 @@
-table top optics (TTO) is a small dummy project which combines the 3 steps of controlling, simulating and creating graphical representations of optical setups. It's just something to play around and nothing serious.
